@@ -10,12 +10,11 @@
 #### 데이터 분석 도구
 <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"> 
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/matplotlib-150458?style=for-the-badge&logo=matplotlib&logoColor=white">
-<img src="https://img.shields.io/badge/seaborn-150458?style=for-the-badge&logo="https://blog.kakaocdn.net/dn/4UIIH/btqIH4tfonl/LyCOqYkmqKo1gFrogryni1/img.png"&logoColor=white">
-<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100">
+<img src="https://img.shields.io/badge/matplotlib-150458?style=for-the-badge&logo=matplotlib&logoColor=white"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100">
+<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="100">
 #### 데이터베이스
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
 - **기타**: Excel, Tableau, Power BI
 
 ### 🎓 교육 및 자격증
