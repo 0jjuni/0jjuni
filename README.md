@@ -10,6 +10,7 @@
 #### 데이터 분석 도구
 <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
+
 #### 데이터베이스
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 - **기타**: Excel, Tableau, Power BI
