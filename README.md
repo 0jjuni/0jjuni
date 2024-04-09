@@ -12,6 +12,9 @@
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/matplotlib-150458?style=for-the-badge&logo=matplotlib&logoColor=white"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100">
 <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="100">
+<img src="https://matplotlib.org/_static/logo_light.svg" width="100">
+
+
 #### 데이터베이스
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
