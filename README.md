@@ -35,9 +35,10 @@ Excel, Tableau, Power BI
 
 ### 📫 연락처
 
-- <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20"/> [iyoung100009@gmail.com](mailto:iyoung100009@gmail.com)
-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"/> [영준 허](https://www.linkedin.com/in/%EC%98%81%EC%A4%80-%ED%97%88-a247472a9/)
-- <img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" height="20"/> [네이버블로그](https://blog.naver.com/iyoung1000)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20"/>](mailto:iyoung100009@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"/>](https://www.linkedin.com/in/%EC%98%81%EC%A4%80-%ED%97%88-a247472a9/)
+[<img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" height="20"/>](https://blog.naver.com/iyoung1000)
+
 
 
 ---
