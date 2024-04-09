@@ -15,9 +15,8 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 #### 📊 시각화
-Excel
-<img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"> <img src="https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white">
 
+<img src="https://img.shields.io/badge/microsoftexcel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"> <img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"> <img src="https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white">
 
 ### 🎓 교육 및 자격증
 
