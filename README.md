@@ -5,8 +5,8 @@
 ### 🛠 기술 스택
 
 ####  🖥️ 프로그래밍 언어
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">,
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">,
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   
 - **데이터 분석 도구**: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
