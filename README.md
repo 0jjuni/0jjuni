@@ -5,7 +5,7 @@
 ### 🛠 기술 스택
 
 #### 🖥️ 프로그래밍 언어
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> 
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 
 #### 🔍 데이터 분석 도구
 <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="100"> <img src="https://matplotlib.org/_static/logo_light.svg" width="100">
@@ -20,7 +20,7 @@ Excel, Tableau, Power BI
 ### 🎓 교육 및 자격증
 
 #### 🏫 교육
-- `영남대학교` 통계학과 컴퓨터공학 학사 - 2025년 졸업 예정
+- `영남대학교` `통계학` `컴퓨터공학` 학사 - 2025년 졸업 예정
 
 #### 📜 자격증
 - `ADSP (데이터분석준전문가)` - 한국데이터산업진흥원, 2023년 09월
