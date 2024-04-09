@@ -4,8 +4,10 @@
 
 ### 🛠 기술 스택
 
-#### 프로그래밍 언어
-- <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">, R, SQL
+#### <img src="https://img.shields.io/badge/-Programming%20Languages-000000?style=flat-square&logo=code&logoColor=white"> 프로그래밍 언어
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">, R, SQL
+
+  
 - **데이터 분석 도구**: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
 - **데이터베이스**: MySQL
 - **기타**: Excel, Tableau, Power BI
