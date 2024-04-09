@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"> 
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/matplotlib-150458?style=for-the-badge&logo=matplotlib&logoColor=white">
-<img src="https://img.shields.io/badge/seaborn-150458?style=for-the-badge&logo=seaborn&logoColor=white">
+<img src="https://img.shields.io/badge/seaborn-150458?style=for-the-badge&logo="https://blog.kakaocdn.net/dn/4UIIH/btqIH4tfonl/LyCOqYkmqKo1gFrogryni1/img.png"&logoColor=white">
 <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
 
 #### 데이터베이스
