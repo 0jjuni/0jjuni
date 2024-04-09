@@ -5,7 +5,7 @@
 ### 🛠 기술 스택
 
 #### 🖥️ 프로그래밍 언어
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://i.namu.wiki/i/1r11osL62y_NP4nFhumeDojQWPPqGppGiPfyIZ-gw4Ye6FMpUy7t9JJoE_CXM90EMk1-pcv06ZW378baOUQwpfxzE4n5VYxtLRryRR8Kx2Yij4b61DbH0J2KexVyy2kKXA73wctpaQTGVYl2qW4aEA.svg" width="100">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 
 #### 🔍 데이터 분석 도구
 <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="100">
