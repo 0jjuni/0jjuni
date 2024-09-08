@@ -8,7 +8,8 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 
 #### 🔍 데이터 분석 도구
-<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="100">
+<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="100"> <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbqSGpL%2FbtrQZyzvO0p%2FOhdgfJ1OlskF6mrUF52AP0%2Fimg.png" width="100"> 
+
 
 
 #### 🗄️ 데이터베이스
@@ -16,7 +17,7 @@
 
 #### 📊 시각화
 
-<img src="https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"> <img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"> <img src="https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"> <img src="https://matplotlib.org/_static/logo_light.svg" width="100">  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100">
+<img src="https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"> <img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"> <img src="https://matplotlib.org/_static/logo_light.svg" width="100">  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100">
 
 ### 🎓 교육 및 자격증
 
