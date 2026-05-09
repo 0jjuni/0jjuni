@@ -7,6 +7,14 @@ iM뱅크 디지털 행원으로 일하며, 금융 데이터 분석가로 성장�
 - 📈 &nbsp; 관심 분야 — 금융 데이터, ML/DL, 추천 시스템
 - 📬 &nbsp; iyoung100009@gmail.com
 
+
+
+<p align="left">
+  <a href="https://0jjuni.notion.site/Portfolio-8707e3c4d8148338a06681c7a6af98bd">
+    <img src="https://img.shields.io/badge/📒_View_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio" />
+  </a>
+</p>
+
 <br/>
 
 #### Tech Stack
@@ -42,4 +50,5 @@ iM뱅크 디지털 행원으로 일하며, 금융 데이터 분석가로 성장�
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:iyoung100009@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%98%81%EC%A4%80-%ED%97%88-a247472a9/)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://0jjuni.notion.site/Portfolio-8707e3c4d8148338a06681c7a6af98bd)
 [![Naver Blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/iyoung1000)
